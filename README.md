@@ -1,8 +1,8 @@
 ## Hi there 👋
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=LKMGIT&show_icons=true&theme=radical)](https://github.com/LKMGIT)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKMGIT&layout=compact)](https://github.com/LKMGIT/githubreadme-stats)
 
-
+![JAVA](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 <!--
 **LKMGIT/LKMGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
