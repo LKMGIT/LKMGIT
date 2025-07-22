@@ -1,5 +1,9 @@
 ## Hi there 👋
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=LKMGIT&show_icons=true&theme=radical)](https://github.com/LKMGIT)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+LKMGIT&layout=compact)](https://github.com/LKMGIT/github
+readme-stats)
+
 
 
 <!--
