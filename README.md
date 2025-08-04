@@ -3,7 +3,7 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)](https://developer.android.com/studio)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 
 <!--
 **LKMGIT/LKMGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
